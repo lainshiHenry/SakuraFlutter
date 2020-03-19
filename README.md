@@ -1,6 +1,6 @@
-# iampoor
+# Sakura App (Inspired by the Challenge App: I Am Poor)
 
-Challenge App: I Am Poor
+Sakura Mobile App
 
 ## Getting Started
 
